@@ -97,7 +97,6 @@ source venv/bin/activate
 
 ### 4. Instale as dependências
 
-Caso o projeto possua um arquivo `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
